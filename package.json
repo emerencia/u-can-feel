@@ -73,7 +73,8 @@
       "localStorage",
       "XMLHttpRequest",
       "fetch",
-      "Response"
+      "Response",
+      "FormData"
     ]
   }
 }
