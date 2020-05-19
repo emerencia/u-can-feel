@@ -1,0 +1,22 @@
+version: '3.7'
+
+services:
+  web:
+    build: .
+    volumes:
+      - .:/app:delegated
+      - node_modules_volume:/app/node_modules
+    ports:
+      - '8000:8000'
+      - '9000:9000'
+    environment:
+      - NODE_ENV=development
+      - NODE_PROJECT=u-can-feel
+    # On docker attach web, you can now do byebug using the next two entries
+    tty: true
+    stdin_open: true
+    entrypoint: ["/app/entrypoint.sh"]
+    command: ["gatsby", "develop", "-H", "0.0.0.0"]
+
+volumes:
+  node_modules_volume:
