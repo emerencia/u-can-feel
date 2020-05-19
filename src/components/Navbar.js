@@ -45,6 +45,8 @@ const Navbar = class extends React.Component {
               <img src={logo} alt='Kaldi' style={{ width: '88px' }} />
             </Link>
             {/* Hamburger menu */}
+            {/* eslint-disable jsx-a11y/click-events-have-key-events */}
+            {/* eslint-disable jsx-a11y/no-static-element-interactions */}
             <div
               className={`navbar-burger burger ${this.state.navBarActiveClass}`}
               data-target='navMenu'

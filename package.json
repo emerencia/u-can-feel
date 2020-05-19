@@ -61,6 +61,7 @@
       "es6"
     ],
     "ignore": [
+      "public/**.js"
     ],
     "globals": [
       "Image",
