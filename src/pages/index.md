@@ -1,55 +1,52 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: U-can-feel
+image: /img/blue-and-red-galaxy-artwork-1629236.jpg
+heading: U-can-feel
+subheading: Een onderzoek naar angst en depressiviteit op de middelbare school
 mainpitch:
-  title: Why u-can-feel?
+  title: Waarom u-can-feel?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+    Leerlingen op de middelbare school hebben soms last van klachten rondom
+    angst en depressiviteit. Mentoren en zorgcoördinatoren op scholen zien ook
+    steeds vaker leerlingen met dit soort klachten. Maar zij zeggen tegelijk ook
+    dat ze niet goed weten of er dingen zijn die de school kan doen om (het
+    risico) op deze klachten te verminderen. Of om leerlingen beter te helpen.
+    Daarom doen we daar in u-can-feel onderzoek naar. 
+description: "Leerlingen op de middelbare school hebben soms last van klachten
+  rondom angst en depressiviteit. Mentoren en zorgcoördinatoren op scholen zien
+  ook steeds vaker leerlingen met dit soort klachten. Maar zij zeggen tegelijk
+  ook dat ze niet goed weten of er dingen zijn die de school kan doen om (het
+  risico) op deze klachten te verminderen. Of om leerlingen beter te helpen.
+  Daarom doen we daar in u-can-feel onderzoek naar. "
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    - image: /img/apple-touch-icon.png
+      text: "We vragen alle leerlingen uit bepaalde klassen van de deelnemende
+        middelbare scholen om mee te doen. Het maakt niet uit of je veel last
+        hebt van problemen als angst en somberheid, of dat je daar juist nog
+        nooit last van hebt gehad. Je wordt in augustus of september door jouw
+        school uitgenodigd om mee te doen. Als je nog geen 16 bent, moet je
+        toestemming van je ouders hebben om mee te kunnen doen. Je kunt op de
+        “Over het onderzoek” pagina meer informatie vinden over wat het
+        onderzoek inhoudt. "
+    - image: /img/apple-touch-icon.png
+      text: "U-can-feel is een gezamenlijk project van zeven middelbare scholen in
+        Zwolle (Zone College, Greijdanus College, Capellen Campus, Thorbecke
+        Scholengemeenschap MHA, Tomas á Kempis, Jena XL en het Meander College)
+        en van onderzoekers van Hogeschool Windesheim, Rijksuniversiteit
+        Groningen en Universiteit Leiden. De GGD IJsselland en de gemeente
+        Zwolle zijn ook betrokken. Kijk voor meer informatie op de “Wie zijn
+        wij?” pagina. Het onderzoek wordt mogelijk gemaakt door het Nationaal
+        Regieorgaan Onderwijsonderzoek (NRO). "
+  heading: Wie kunnen er meedoen aan u-can-feel?
+  description: "We vragen alle leerlingen uit bepaalde klassen van de deelnemende
+    middelbare scholen om mee te doen. Het maakt niet uit of je veel last hebt
+    van problemen als angst en somberheid, of dat je daar juist nog nooit last
+    van hebt gehad. Je wordt in augustus of september door jouw school
+    uitgenodigd om mee te doen. Als je nog geen 16 bent, moet je toestemming van
+    je ouders hebben om mee te kunnen doen. Je kunt op de “Over het onderzoek”
+    pagina meer informatie vinden over wat het onderzoek inhoudt. "
 main:
   heading: Great coffee with no compromises
   description: >
