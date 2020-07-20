@@ -1,19 +1,24 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: About our values
+title: Over het onderzoek
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### Waarom dit onderzoek?
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+Scholen geven aan dat ze steeds vaker leerlingen zien die problemen hebben met spanning, angst of depressiviteit. We kennen wel een aantal dingen die het risico op dit soort problemen verhogen. Bijvoorbeeld stressvolle gebeurtenissen. Maar we weten nog veel minder goed of er dingen zijn die school kan doen om het risico op dit soort klachten te verkleinen. 
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+In het *u-can-feel* onderzoek kijken onderzoekers van Hogeschool Windesheim, de Rijksuniversiteit Groningen en de Universiteit Leiden samen met Zwolse middelbare scholen hoe schoolse zaken te maken hebben met klachten zoals spanning, angst en depressiviteit. Maakt het uit hoeveel toetsen leerlingen hebben? Of hoe goed ze op kunnen schieten met hun leraren? Zijn er dingen die ervoor zorgen dat leerlingen met klachten toch gewoon naar school kunnen gaan? Is er een verband met het verzuim van leerlingen?
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+Het **doel van dit onderzoek** is om praktisch toepasbare kennis te verkrijgen over angst en depressiviteit op de middelbare school. Dit kunnen scholen bijvoorbeeld gebruiken als ze leerlingen met (beginnende) klachten begeleiden. Maar ook om bijvoorbeeld te proberen om dit soort klachten te voorkomen.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### Kan iedereen meedoen aan dit onderzoek?
+
+Alleen leerlingen in bepaalde klassen van de deelnemende middelbare scholen kunnen meedoen aan het onderzoek. Leerlingen die mee kunnen doen, worden daarvoor in augustus of september uitgenodigd. Het is niet verplicht om mee te doen als je een uitnodiging ontvangt. Je beslist zelf of je mee wil doen. Voor leerlingen jonger dan 16 vragen we ook aan de ouders toestemming. 
+
+### Wat houdt meedoen aan het onderzoek in?
+
+Het onderzoek loopt van september 2020 tot 1 april 2023. We vragen leerlingen die meedoen om tijdens een periode van ongeveer twee jaar elk half jaar een vragenlijst in te vullen. In totaal dus vijf keer. Het invullen van de vragenlijst zal ongeveer 45 minuten duren. Het invullen kan gewoon op een computer of op je telefoon. De vragen gaan vooral over hoe het met je gaat en over school.
+
+We vragen sommige leerlingen ook om mee te doen aan een dagboekstudie. Deze leerlingen vragen we om een jaar lang elke week een paar vragen te beantwoorden over school en over hoe het gaat. Het invullen duurt een paar minuten en kan gewoon op de telefoon via de app. Hier krijg je wekelijks een kleine vergoeding voor. 
+
+Heb je nog vragen over wat meedoen aan het onderzoek voor jou inhoudt? Dan kun je altijd contact opnemen met de contactpersoon op jouw school of met de onderzoekers. Op de contactpagina kun je onze emailadressen en telefoonnummers vinden.
