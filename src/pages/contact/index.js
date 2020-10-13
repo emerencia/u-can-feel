@@ -58,7 +58,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className='field'>
                   <label className='label' htmlFor='name'>
-                    Your name
+                    Je naam
                   </label>
                   <div className='control'>
                     <input
@@ -73,7 +73,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className='field'>
                   <label className='label' htmlFor='email'>
-                    Email
+                    E-mailadres
                   </label>
                   <div className='control'>
                     <input
@@ -88,7 +88,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className='field'>
                   <label className='label' htmlFor='message'>
-                    Message
+                    Bericht
                   </label>
                   <div className='control'>
                     <textarea
@@ -102,7 +102,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className='field'>
                   <button className='button is-link' type='submit'>
-                    Send
+                    Versturen
                   </button>
                 </div>
               </form>

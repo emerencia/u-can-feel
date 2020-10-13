@@ -1,6 +1,6 @@
 ---
 templateKey: about-page
-path: /about
+path: /over-het-onderzoek
 title: Over het onderzoek
 ---
 ### Waarom dit onderzoek?
@@ -21,4 +21,5 @@ Het onderzoek loopt van september 2020 tot 1 april 2023. We vragen leerlingen di
 
 We vragen sommige leerlingen ook om mee te doen aan een dagboekstudie. Deze leerlingen vragen we om een jaar lang elke week een paar vragen te beantwoorden over school en over hoe het gaat. Het invullen duurt een paar minuten en kan gewoon op de telefoon via de app. Hier krijg je wekelijks een kleine vergoeding voor. 
 
-Heb je nog vragen over wat meedoen aan het onderzoek voor jou inhoudt? Dan kun je altijd contact opnemen met de contactpersoon op jouw school of met de onderzoekers. Op de contactpagina kun je onze emailadressen en telefoonnummers vinden.
+Heb je nog vragen over wat meedoen aan het onderzoek voor jou inhoudt? Dan kun je altijd contact opnemen met de contactpersoon op jouw school of met de onderzoekers.
+ Op de contactpagina kun je onze emailadressen en telefoonnummers vinden.
