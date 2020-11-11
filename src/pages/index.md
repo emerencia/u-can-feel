@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: U-can-feel
-image: /img/blue-and-red-galaxy-artwork-1629236.jpg
+image: /img/writing.png
 heading: U-can-feel
 subheading: Een onderzoek naar angst en depressiviteit op de middelbare school
 mainpitch:
@@ -13,15 +13,10 @@ mainpitch:
     dat ze niet goed weten of er dingen zijn die de school kan doen om (het
     risico) op deze klachten te verminderen. Of om leerlingen beter te helpen.
     Daarom doen we daar in u-can-feel onderzoek naar. 
-description: "Leerlingen op de middelbare school hebben soms last van klachten
-  rondom angst en depressiviteit. Mentoren en zorgcoördinatoren op scholen zien
-  ook steeds vaker leerlingen met dit soort klachten. Maar zij zeggen tegelijk
-  ook dat ze niet goed weten of er dingen zijn die de school kan doen om (het
-  risico) op deze klachten te verminderen. Of om leerlingen beter te helpen.
-  Daarom doen we daar in u-can-feel onderzoek naar. "
+description: "Wie kunnen er meedoen aan u-can-feel? En wie zijn verantwoordelijk voor u-can-feel?"
 intro:
   blurbs:
-    - image: /img/apple-touch-icon.png
+    - image: /img/books.jpg
       text: "We vragen alle leerlingen uit bepaalde klassen van de deelnemende
         middelbare scholen om mee te doen. Het maakt niet uit of je veel last
         hebt van problemen als angst en somberheid, of dat je daar juist nog
@@ -30,7 +25,7 @@ intro:
         toestemming van je ouders hebben om mee te kunnen doen. Je kunt op de
         “Over het onderzoek” pagina meer informatie vinden over wat het
         onderzoek inhoudt. "
-    - image: /img/apple-touch-icon.png
+    - image: /img/pencils.jpg
       text: "U-can-feel is een gezamenlijk project van zeven middelbare scholen in
         Zwolle (Zone College, Greijdanus College, Capellen Campus, Thorbecke
         Scholengemeenschap MHA, Tomas á Kempis, Jena XL en het Meander College)

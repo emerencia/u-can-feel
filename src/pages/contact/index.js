@@ -40,6 +40,10 @@ export default class Index extends React.Component {
           <div className='container'>
             <div className='content'>
               <h1>Contact</h1>
+              <p>Heb je vragen over het onderzoek? Neem dan contact op met één van de projectleiders, dr. Ymkje Anna de
+                Vries of dr. Bert Wienen. Je kunt ons bereiken door hieronder een bericht achter te laten, of telefonisch op 050-3633241 (Ymkje Anna de
+                Vries) of 088-4699733 (Bert Wienen).
+              </p>
               <form
                 name='contact'
                 method='post'
@@ -58,7 +62,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className='field'>
                   <label className='label' htmlFor='name'>
-                    Your name
+                    Je naam
                   </label>
                   <div className='control'>
                     <input
@@ -73,7 +77,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className='field'>
                   <label className='label' htmlFor='email'>
-                    Email
+                    E-mailadres
                   </label>
                   <div className='control'>
                     <input
@@ -88,7 +92,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className='field'>
                   <label className='label' htmlFor='message'>
-                    Message
+                    Bericht
                   </label>
                   <div className='control'>
                     <textarea
@@ -102,7 +106,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className='field'>
                   <button className='button is-link' type='submit'>
-                    Send
+                    Versturen
                   </button>
                 </div>
               </form>

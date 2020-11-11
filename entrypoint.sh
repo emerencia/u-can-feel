@@ -1,6 +1,8 @@
 #!/bin/sh
 
 # Occassionally this is also needed, so just do to be sure.
-yarn
+rm -rf public
+rm -rf .cache
 
+yarn
 exec "$@"
