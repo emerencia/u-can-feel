@@ -1,73 +1,25 @@
 ---
-templateKey: 'product-page'
+templateKey: about-page
 path: /onze-visie
 title: Onze visie
-image: /img/jumbotron.jpg
-heading: Onze visie op angst en depressiviteit
-description: >-
-  Bijna driekwart van alle angststoornissen en zeker een kwart van alle
-  stemmingsstoornissen begint al voor het 18e levensjaar. De puberteit is
-  dan ook een heel belangrijke periode om de ontwikkeling van dit soort klachten
-  beter te begrijpen.
-intro:
-  blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
-main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
-  image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
-  image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
-  image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
-testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
 ---
+### Onze visie op angst en depressiviteit
+
+Bijna driekwart van alle angststoornissen en zeker een kwart van alle stemmingsstoornissen begint al voor het 18e
+levensjaar. De puberteit is dan ook een heel belangrijke periode om de ontwikkeling van dit soort klachten beter te
+begrijpen.
+
+In dit onderzoek zien we angst en depressiviteit als dimensies die onderdeel zijn van het gewone leven. Dat betekent dat
+we ervan uitgaan dat iedereen weleens dit soort gevoelens ervaart. Bij de ene persoon zijn deze gevoelens maar zo nu en
+dan aanwezig, bijvoorbeeld als er iets vervelends gebeurt. Een andere persoon heeft juist heel vaak en heel sterk zulke
+gevoelens. Als gevoelens van angst of depressiviteit heel sterk zijn, kunnen ze echt problemen veroorzaken. Iemand lijdt
+er bijvoorbeeld heel erg onder of vindt het moeilijk om nog naar school te gaan.
+
+Uit eerder onderzoek weten we dat angst en depressiviteit vaak samengaan. We weten ook dat de ontwikkeling van deze
+klachten van persoon tot persoon verschilt. Bij de ene persoon gaan klachten weer snel voorbij, terwijl klachten bij de
+andere persoon blijven bestaan. Die ontwikkeling staat ook niet op zichzelf, maar wordt beïnvloed door andere dingen.
+Bijvoorbeeld bepaalde gebeurtenissen of de omgeving. Deze andere factoren kunnen ervoor zorgen dat klachten erger
+worden, maar ook dat ze juist weer opknappen.
+
+In dit onderzoek kijken we vooral naar schoolse factoren, maar we zijn ons ervan bewust dat er ook andere factoren een
+rol spelen. Bijvoorbeeld maatschappelijk ontwikkelingen. 
