@@ -13,12 +13,7 @@ mainpitch:
     dat ze niet goed weten of er dingen zijn die de school kan doen om (het
     risico) op deze klachten te verminderen. Of om leerlingen beter te helpen.
     Daarom doen we daar in u-can-feel onderzoek naar. 
-description: "Leerlingen op de middelbare school hebben soms last van klachten
-  rondom angst en depressiviteit. Mentoren en zorgcoördinatoren op scholen zien
-  ook steeds vaker leerlingen met dit soort klachten. Maar zij zeggen tegelijk
-  ook dat ze niet goed weten of er dingen zijn die de school kan doen om (het
-  risico) op deze klachten te verminderen. Of om leerlingen beter te helpen.
-  Daarom doen we daar in u-can-feel onderzoek naar. "
+description: "Wie kunnen er meedoen aan u-can-feel? En wie zijn verantwoordelijk voor u-can-feel?"
 intro:
   blurbs:
     - image: /img/books.jpg
