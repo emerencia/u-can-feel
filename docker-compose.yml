@@ -17,6 +17,7 @@ services:
     stdin_open: true
     entrypoint: ["/app/entrypoint.sh"]
     command: ["gatsby", "develop", "-H", "0.0.0.0"]
+    restart: on-failure
 
 volumes:
   node_modules_volume:
