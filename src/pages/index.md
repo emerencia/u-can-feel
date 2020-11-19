@@ -28,12 +28,10 @@ intro:
         onderzoek inhoudt. "
     - image: /img/pencils.jpg
       text: "U-can-feel is een gezamenlijk project van zeven middelbare scholen in
-        Zwolle (Zone College, Greijdanus College, Capellen Campus, Thorbecke
-        Scholengemeenschap MHA, Tomas á Kempis, Jena XL en het Meander College)
-        en van onderzoekers van Hogeschool Windesheim, Rijksuniversiteit
-        Groningen en Universiteit Leiden. De GGD IJsselland en de gemeente
-        Zwolle zijn ook betrokken. Kijk voor meer informatie op de “Wie zijn
-        wij?” pagina. Het onderzoek wordt mogelijk gemaakt door het Nationaal
+        Zwolle en van onderzoekers van Hogeschool Windesheim en
+        Rijksuniversiteit Groningen. De GGD IJsselland en de gemeente Zwolle
+        zijn ook betrokken. Kijk voor meer informatie op de “Wie zijn wij?”
+        pagina. Het onderzoek wordt mogelijk gemaakt door het Nationaal
         Regieorgaan Onderwijsonderzoek (NRO). "
   heading: Wie kunnen er meedoen aan u-can-feel?
   description: "We vragen alle leerlingen uit bepaalde klassen van de deelnemende
