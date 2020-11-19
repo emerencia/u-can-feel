@@ -28,19 +28,19 @@ Prof. dr. [Peter de Jonge](https://www.rug.nl/staff/peter.de.jonge/) is hooglera
 
 Er doen zeven middelbare scholen in Zwolle aan het onderzoek mee:
 
-Zone College
+[Zone.college](https://zonecollege.nl/)
 
-Greijdanus College 
+[Greijdanus](https://greijdanus.nl/) 
 
-Capellen Campus 
+[Capellen Campus](https://capellensg.nl/)
 
-Thorbecke Scholengemeenschap MHA 
+[Thorbecke Scholengemeenschap MHA](https://www.thorbecke-zwolle.nl/)
 
-Tomas á Kempis 
+[Thomas á Kempis](https://www.thomasakempis.nl/)
 
-Jena XL
+[Jena XL](https://www.jenaxl.nl/)
 
-Meander College
+[Meander College](https://www.meandercollege.nl/)
 
 ## Financiëring
 
