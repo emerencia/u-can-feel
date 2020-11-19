@@ -8,21 +8,23 @@ de Rijksuniversiteit Groningen. Het is gefinancierd door een subsidie van het Na
 
 ## Betrokken onderzoekers
 
-**Dr. Bert Wienen**
+[**Dr. Bert Wienen**](https://www.windesheim.nl/personen/onderzoek/lectoraat-jeugd/bert-wienen)
 
 *Projectleider*
 
-[Bert Wienen](https://www.windesheim.nl/personen/onderzoek/lectoraat-jeugd/bert-wienen) is associate lector Jeugd bij Hogeschool Windesheim in Zwolle. 
+Dr. Bert Wienen is associate lector Jeugd bij Hogeschool Windesheim in Zwolle. 
 
-**Dr. Ymkje Anna de Vries**
+[**Dr. Ymkje Anna de Vries**](https://www.rug.nl/staff/y.a.de.vries/research)
 
 *Projectleider*
 
-[Ymkje Anna de Vries](https://www.rug.nl/staff/y.a.de.vries/research) is onderzoeker en docent bij de afdeling Ontwikkelingspsychologie van de Rijksuniversiteit Groningen.
+Dr. Ymkje Anna de Vries is onderzoeker en docent bij de afdeling Ontwikkelingspsychologie van de Rijksuniversiteit Groningen.
 
-**Prof. dr. Peter de Jonge**
+[**Prof. dr. Peter de Jonge**](https://www.rug.nl/staff/peter.de.jonge/)
+
+*Hoogleraar*
  
-Prof. dr. [Peter de Jonge](https://www.rug.nl/staff/peter.de.jonge/) is hoogleraar Ontwikkelingspsychologie aan de Rijksuniversiteit Groningen.
+Prof. dr. Peter de Jonge is hoogleraar Ontwikkelingspsychologie aan de Rijksuniversiteit Groningen.
 
 ## Betrokken scholen
 
