@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: U-can-feel
-image: /img/writing.png
+image: /img/writing.jpg
 heading: U-can-feel
 subheading: Een onderzoek naar angst en depressiviteit op de middelbare school
 mainpitch:
