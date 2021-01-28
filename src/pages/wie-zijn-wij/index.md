@@ -19,8 +19,8 @@ team:
     - image: /img/default_member.jpg
       name: "Dr. Ando Emerencia"
       title: Onderzoeker
-      description: "Onderzoeker in Computer Science bij de afdeling Instrumentatiedienst van het GMW van de Rijksuniversiteit Groningen" 
-      link: "https://www.cs.rug.nl/ando"
+      description: "Onderzoeker in Computer Science bij de Instrumentatiedienst van het GMW van de Rijksuniversiteit Groningen"
+      link: "https://www.cs.rug.nl/~ando"
     - image: /img/default_member.jpg
       name: "Prof. dr. Peter de Jonge"
       title: Hoogleraar
