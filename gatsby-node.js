@@ -8,7 +8,7 @@ exports.createPages = ({ actions, graphql }) => {
 
   return graphql(`
     {
-      allMarkdownRemark(limit: 1000) {
+      allMarkdownRemark(filter: {fileAbsolutePath: {regex: "/app/src/pages/"}}, limit: 1000) {
         edges {
           node {
             id
@@ -72,6 +72,8 @@ exports.createPages = ({ actions, graphql }) => {
   })
 }
 
+// Iterates over all markdownremark objects and adds the slug property to each of them
+// based on the file path.
 exports.onCreateNode = ({ node, actions, getNode }) => {
   const { createNodeField } = actions
   fmImagesToRelative(node) // convert image paths for gatsby images
