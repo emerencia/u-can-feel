@@ -1,6 +1,7 @@
 import React from 'react'
 import { navigate } from 'gatsby-link'
 import Layout from '../../components/Layout'
+import ContactFormText from '../../static_texts/contact_form/ContactFormText'
 
 function encode (data) {
   return Object.keys(data)
@@ -39,11 +40,7 @@ export default class Index extends React.Component {
         <section className='section'>
           <div className='container'>
             <div className='content'>
-              <h1>Contact</h1>
-              <p>Heb je vragen over het onderzoek? Neem dan contact op met één van de projectleiders, dr. Ymkje Anna de
-                Vries of dr. Bert Wienen. Je kunt ons bereiken door hieronder een bericht achter te laten, of telefonisch op 050-3633241 (Ymkje Anna de
-                Vries) of 088-4699733 (Bert Wienen).
-              </p>
+              <ContactFormText />
               <form
                 name='contact'
                 method='post'
