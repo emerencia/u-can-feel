@@ -60,9 +60,11 @@ collections:
         label: "Wie zijn wij?"
         name: "wie-zijn-wij"
         fields:
-          - { label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page" }
+          - { label: "Template Key", name: "templateKey", widget: "hidden", default: "who-are-we-page" }
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
+          - { label: Team, name: team, widget: object, fields: [ { label: Heading, name: heading, widget: string }, { label: Description, name: description, widget: text }, { label: Members, name: members, widget: list, fields: [ { label: Image, name: image, widget: image }, { label: Name, name: name, widget: string }, { label: Title, name: title, widget: string }, { label: Description, name: description, widget: text }, { label: Link, name: link, widget: string } ] } ] }
+          - { label: Schools, name: schools, widget: object, fields: [ { label: Heading, name: heading, widget: string }, { label: Description, name: description, widget: text }, { label: Members, name: members, widget: list, fields: [ { label: Image, name: image, widget: image }, { label: Name, name: name, widget: string }, { label: Title, name: title, widget: string }, { label: Description, name: description, widget: text }, { label: Link, name: link, widget: string } ] } ] }
 
   - name: "static-texts"
     label: "Static Texts"

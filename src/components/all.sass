@@ -122,6 +122,28 @@ $menu-label-color: $white-ter
 .margin-bottom
   margin-bottom: 1em
 
+.team-members
+  .has-text-centered > div > div:first-child
+    overflow: visible !important
+  a
+    color: $body-color
+    &:hover, &:active, &:focus
+      img
+        border-color: #5A6EA3
+        -webkit-box-shadow: 0 0 10px #99b5cd
+        box-shadow: 0 0 10px #99b5cd
+  img
+    border: 1px solid #99b5cd
+    border-radius: 50%
+  .member-name
+    font-weight: bold
+    font-size: 1.2rem
+  .member-title
+    font-style: italic
+  .member-description
+    font-size: 0.8rem
+    color: #6c757d
+
 @import "~bulma"
 
 .notification a:not(.button):not(.dropdown-item)
