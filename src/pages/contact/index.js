@@ -37,61 +37,64 @@ export default class Index extends React.Component {
   render () {
     return (
       <Layout>
-        <section className='section'>
+        <section className='section section--gradient'>
           <div className='container'>
-            <div className='content'>
-              <ContactFormText />
-              <form
-                name='contact'
-                method='post'
-                action='/contact/thanks/'
-                data-netlify='true'
-                data-netlify-honeypot='bot-field'
-                onSubmit={this.handleSubmit}
-              >
-                {/* The `form-name` hidden field is required to support form submissions without JavaScript */}
-                <input type='hidden' name='form-name' value='contact' />
-                <div hidden>
-                  <label>
-                    Don’t fill this out:{' '}
-                    <input name='bot-field' onChange={this.handleChange} />
-                  </label>
-                </div>
-                <div className='field'>
-                  <label className='label' htmlFor='name'>
-                    Je naam
-                  </label>
-                  <div className='control'>
-                    <input
-                      className='input'
-                      type='text'
-                      name='name'
-                      onChange={this.handleChange}
-                      id='name'
-                      required
-                    />
-                  </div>
-                </div>
-                <div className='field'>
-                  <label className='label' htmlFor='email'>
-                    E-mailadres
-                  </label>
-                  <div className='control'>
-                    <input
-                      className='input'
-                      type='email'
-                      name='email'
-                      onChange={this.handleChange}
-                      id='email'
-                      required
-                    />
-                  </div>
-                </div>
-                <div className='field'>
-                  <label className='label' htmlFor='message'>
-                    Bericht
-                  </label>
-                  <div className='control'>
+            <div className='columns'>
+              <div className='column is-10 is-offset-1'>
+                <div className='section'>
+                  <div className='content'>
+                    <ContactFormText />
+                    <form
+                      name='contact'
+                      method='post'
+                      action='/contact/thanks/'
+                      data-netlify='true'
+                      data-netlify-honeypot='bot-field'
+                      onSubmit={this.handleSubmit}
+                    >
+                      {/* The `form-name` hidden field is required to support form submissions without JavaScript */}
+                      <input type='hidden' name='form-name' value='contact' />
+                      <div hidden>
+                        <label>
+                          Don’t fill this out:{' '}
+                          <input name='bot-field' onChange={this.handleChange} />
+                        </label>
+                      </div>
+                      <div className='field'>
+                        <label className='label' htmlFor='name'>
+                          Je naam
+                        </label>
+                        <div className='control'>
+                          <input
+                            className='input'
+                            type='text'
+                            name='name'
+                            onChange={this.handleChange}
+                            id='name'
+                            required
+                          />
+                        </div>
+                      </div>
+                      <div className='field'>
+                        <label className='label' htmlFor='email'>
+                          E-mailadres
+                        </label>
+                        <div className='control'>
+                          <input
+                            className='input'
+                            type='email'
+                            name='email'
+                            onChange={this.handleChange}
+                            id='email'
+                            required
+                          />
+                        </div>
+                      </div>
+                      <div className='field'>
+                        <label className='label' htmlFor='message'>
+                          Bericht
+                        </label>
+                        <div className='control'>
                     <textarea
                       className='textarea'
                       name='message'
@@ -99,14 +102,17 @@ export default class Index extends React.Component {
                       id='message'
                       required
                     />
+                        </div>
+                      </div>
+                      <div className='field'>
+                        <button className='button is-link' type='submit'>
+                          Versturen
+                        </button>
+                      </div>
+                    </form>
                   </div>
                 </div>
-                <div className='field'>
-                  <button className='button is-link' type='submit'>
-                    Versturen
-                  </button>
-                </div>
-              </form>
+              </div>
             </div>
           </div>
         </section>

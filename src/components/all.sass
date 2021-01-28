@@ -123,17 +123,25 @@ $menu-label-color: $white-ter
   margin-bottom: 1em
 
 .team-members
-  .has-text-centered > div > div:first-child
-    overflow: visible !important
+  .section
+    height: 100%
+    background-color: whitesmoke
+    border-radius: 4px
+    padding: 1.25rem 1.5rem 1.25rem 1.5rem
+    box-shadow: 0 0.5em 1em -0.125em rgba(10, 10, 10, 0.1), 0 0px 0 1px rgba(10, 10, 10, 0.02)
+
+  .has-text-centered > div
+    max-width: 100%
+    & > div:first-child
+      overflow: visible !important
   a
     color: $body-color
     &:hover, &:active, &:focus
       img
-        border-color: #5A6EA3
         -webkit-box-shadow: 0 0 10px #99b5cd
         box-shadow: 0 0 10px #99b5cd
   img
-    border: 1px solid #99b5cd
+    border: 1px solid white
     border-radius: 50%
   .member-name
     font-weight: bold
