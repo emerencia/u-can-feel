@@ -4,7 +4,7 @@ path: /wie-zijn-wij
 title: Wie zijn wij?
 team:
   heading: Betrokken onderzoekers
-  description: ""
+  description: " "
   members:
     - image: /img/default_member.jpg
       name: "Dr. Bert Wienen"
@@ -32,26 +32,38 @@ schools:
   members:
     - image: /img/default_school.jpg
       name: "Zone.college"
-      title: ""
-      description: ""
+      title: " "
+      description: " "
       link: "https://zonecollege.nl/"
     - image: /img/default_school.jpg
       name: "Greijdanus"
+      title: " "
+      description: " "
       link: "https://greijdanus.nl/"
     - image: /img/default_school.jpg
       name: "Capellen Campus"
+      title: " "
+      description: " "
       link: "https://capellensg.nl/"
     - image: /img/default_school.jpg
       name: "Thorbecke Scholengemeenschap MHA"
+      title: " "
+      description: " "
       link: "https://www.thorbecke-zwolle.nl/"
     - image: /img/default_school.jpg
       name: "Thomas á Kempis"
+      title: " "
+      description: " "
       link: "https://www.thomasakempis.nl/"
     - image: /img/default_school.jpg
       name: "Jena XL"
+      title: " "
+      description: " "
       link: "https://www.jenaxl.nl/"
     - image: /img/default_school.jpg
       name: "Meander College"
+      title: " "
+      description: " "
       link: "https://www.meandercollege.nl/"
 heading: "U-can-feel is een gezamenlijk project van zeven Zwolse middelbare scholen en onderzoekers van Hogeschool Windesheim en de Rijksuniversiteit Groningen. Het is gefinancierd door een subsidie van het Nationaal Regieorgaan Onderwijsonderzoek."
 ---

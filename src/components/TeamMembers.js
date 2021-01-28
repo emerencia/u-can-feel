@@ -21,8 +21,8 @@ const TeamMemberGrid = ({ team }) => (
                   <PreviewCompatibleImage imageInfo={teamMember} />
                 </div>
                 <div className='member-name'>{teamMember.name}</div>
-                {teamMember.title && teamMember.title.length > 0 && <div className='member-title'>{teamMember.title}</div>}
-                {teamMember.description && teamMember.description.length > 0 && <div className='member-description'>{teamMember.description}</div>}
+                {teamMember.title && teamMember.title.length > 1 && <div className='member-title'>{teamMember.title}</div>}
+                {teamMember.description && teamMember.description.length > 1 && <div className='member-description'>{teamMember.description}</div>}
               </div>
             </a>
           </section>
