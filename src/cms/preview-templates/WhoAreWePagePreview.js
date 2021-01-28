@@ -8,6 +8,7 @@ const WhoAreWePagePreview = ({ entry, widgetFor }) => {
   return (
     <WhoAreWePageTemplate
       title={entry.getIn(['data', 'title'])}
+      heading={data.heading}
       content={widgetFor('body')}
       team={data.team || { members: [] }}
       schools={data.schools || { members: [] }}

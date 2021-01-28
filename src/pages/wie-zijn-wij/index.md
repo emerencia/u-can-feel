@@ -53,10 +53,8 @@ schools:
     - image: /img/default_school.jpg
       name: "Meander College"
       link: "https://www.meandercollege.nl/"
+heading: "U-can-feel is een gezamenlijk project van zeven Zwolse middelbare scholen en onderzoekers van Hogeschool Windesheim en de Rijksuniversiteit Groningen. Het is gefinancierd door een subsidie van het Nationaal Regieorgaan Onderwijsonderzoek."
 ---
-U-can-feel is een gezamenlijk project van zeven Zwolse middelbare scholen en onderzoekers van Hogeschool Windesheim en
-de Rijksuniversiteit Groningen. Het is gefinancierd door een subsidie van het Nationaal Regieorgaan Onderwijsonderzoek.
-
 ## Financiëring
 
 Dit onderzoek is mogelijk gemaakt met dank aan een subsidie van het Nationaal Regieorgaan Onderwijs. Een samenvatting van de onderzoeksaanvraag is [hier](https://www.nro.nl/onderzoeksprojecten/de-ontwikkeling-van-spanning-naar-angst-en-depressiviteit-een-onderzoek-onder) te vinden.

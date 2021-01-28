@@ -5,7 +5,7 @@ import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 import TeamMembers from '../components/TeamMembers'
 
-export const WhoAreWePageTemplate = ({ title, content, contentComponent, team, schools }) => {
+export const WhoAreWePageTemplate = ({ title, heading, content, contentComponent, team, schools }) => {
   const PageContent = contentComponent || Content
 
   return (
@@ -17,9 +17,12 @@ export const WhoAreWePageTemplate = ({ title, content, contentComponent, team, s
               <h2 className='title is-size-3 has-text-weight-bold is-bold-light'>
                 {title}
               </h2>
-              <PageContent className='content' content={content} />
+              <div className='content'>
+                <p>{heading}</p>
+              </div>
               <TeamMembers team={team} />
               <TeamMembers team={schools} />
+              <PageContent className='content' content={content} />
             </div>
           </div>
         </div>
@@ -30,6 +33,7 @@ export const WhoAreWePageTemplate = ({ title, content, contentComponent, team, s
 
 WhoAreWePageTemplate.propTypes = {
   title: PropTypes.string.isRequired,
+  heading: PropTypes.string,
   content: PropTypes.string,
   contentComponent: PropTypes.func,
   team: PropTypes.shape({
@@ -52,6 +56,7 @@ const WhoAreWePage = ({ data }) => {
       <WhoAreWePageTemplate
         contentComponent={HTMLContent}
         title={post.frontmatter.title}
+        heading={post.frontmatter.heading}
         content={post.html}
         team={post.frontmatter.team}
         schools={post.frontmatter.schools}
@@ -72,6 +77,7 @@ export const whoAreWePageQuery = graphql`
       html
       frontmatter {
         title
+        heading
         team {
           members {
             image {
