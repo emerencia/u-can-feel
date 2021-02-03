@@ -42,37 +42,37 @@ schools:
   heading: Betrokken scholen
   description: "Er doen zeven middelbare scholen in Zwolle aan het onderzoek mee:"
   members:
-    - image: /img/default_school.jpg
+    - image: /img/zonecollege_logo.jpg
       name: Zone.college
       title: " "
       description: " "
       link: https://zonecollege.nl/
-    - image: /img/default_school.jpg
+    - image: /img/greijdanus_logo.png
       name: Greijdanus
       title: " "
       description: " "
       link: https://greijdanus.nl/
-    - image: /img/default_school.jpg
+    - image: /img/vandercapellen_logo.png
       name: Capellen Campus
       title: " "
       description: " "
       link: https://capellensg.nl/
-    - image: /img/default_school.jpg
+    - image: /img/thorbecke_logo.jpg
       name: Thorbecke Scholengemeenschap MHA
       title: " "
       description: " "
       link: https://www.thorbecke-zwolle.nl/
-    - image: /img/default_school.jpg
+    - image: /img/thomasakempis_logo.png
       name: Thomas á Kempis
       title: " "
       description: " "
       link: https://www.thomasakempis.nl/
-    - image: /img/default_school.jpg
+    - image: /img/jenaxl_logo.png
       name: Jena XL
       title: " "
       description: " "
       link: https://www.jenaxl.nl/
-    - image: /img/default_school.jpg
+    - image: /img/meander_logo.png
       name: Meander College
       title: " "
       description: " "
