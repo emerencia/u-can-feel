@@ -10,12 +10,12 @@ team:
   heading: Betrokken onderzoekers
   description: " "
   members:
-    - image: /img/default_member.jpg
+    - image: /img/bertwienen_associatelector-512x288.png
       name: Dr. Bert Wienen
       title: Projectleider
       description: Associate lector Jeugd bij Hogeschool Windesheim in Zwolle
       link: https://www.windesheim.nl/personen/onderzoek/lectoraat-jeugd/bert-wienen
-    - image: /img/default_member.jpg
+    - image: /img/ymkjeannadevries.jpg
       name: Dr. Ymkje Anna de Vries
       title: Projectleider
       description: Onderzoeker en docent bij de afdeling Ontwikkelingspsychologie van
@@ -27,7 +27,7 @@ team:
       description: Onderzoeker in Computer Science bij de Instrumentatiedienst van het
         GMW van de Rijksuniversiteit Groningen
       link: https://www.cs.rug.nl/~ando
-    - image: /img/default_member.jpg
+    - image: /img/peterdejonge.png
       name: Prof. dr. Peter de Jonge
       title: Hoogleraar
       description: Hoogleraar Ontwikkelingspsychologie aan de Rijksuniversiteit Groningen
