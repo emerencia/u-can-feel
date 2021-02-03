@@ -32,6 +32,12 @@ team:
       title: Hoogleraar
       description: Hoogleraar Ontwikkelingspsychologie aan de Rijksuniversiteit Groningen
       link: https://www.rug.nl/staff/peter.de.jonge/
+    - name: Anne Margit Reitsema
+      title: Promovendus
+      description: Promovendus (onderzoeker-in-opleiding) bij de afdeling
+        Ontwikkelingspsychologie van de Rijksuniversiteit Groningen
+      link: https://www.rug.nl/staff/a.m.reitsema/
+      image: /img/default_member.jpg
 schools:
   heading: Betrokken scholen
   description: "Er doen zeven middelbare scholen in Zwolle aan het onderzoek mee:"
