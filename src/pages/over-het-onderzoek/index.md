@@ -21,5 +21,12 @@ Het onderzoek loopt van september 2020 tot april 2023. We vragen leerlingen die 
 
 We vragen sommige leerlingen ook om mee te doen aan een dagboekstudie. Deze leerlingen vragen we om een jaar lang elke week een paar vragen te beantwoorden over school en over hoe het gaat. Het invullen duurt een paar minuten en kan gewoon op de telefoon via de app. Hier krijg je wekelijks een kleine vergoeding voor. 
 
-Heb je nog vragen over wat meedoen aan het onderzoek voor jou inhoudt? Dan kun je altijd contact opnemen met de contactpersoon op jouw school of met de onderzoekers.
- Op de contactpagina kun je onze emailadressen en telefoonnummers vinden.
+Wil je uitgebreidere informatie over het onderzoek, bijvoorbeeld over hoe wij omgaan met je privacy? Je kunt op de volgende links de volledige informatie voor onderzoeksdeelnemers vinden:
+
+[Informatie voor leerlingen van 15 of jonger](https://u-can-feel.nl/img/informatieformulier_kind16min.pdf)
+
+[Informatie voor leerlingen van 16 of ouder](https://u-can-feel.nl/img/informatieformulier_kind16plus.pdf)
+
+[Informatie voor ouders van leerlingen van 15 of jonger](https://u-can-feel.nl/img/informatieformulier_ouders16min.pdf)
+
+[](https://u-can-feel.nl/img/informatieformulier_ouders16min.pdf)Heb je nog vragen over wat meedoen aan het onderzoek voor jou inhoudt? Dan kun je altijd contact opnemen met de contactpersoon op jouw school of met de onderzoekers.  Op de contactpagina kun je onze emailadressen en telefoonnummers vinden.
