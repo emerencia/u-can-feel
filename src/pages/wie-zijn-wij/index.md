@@ -8,7 +8,7 @@ heading: U-can-feel is een gezamenlijk project van zeven Zwolse middelbare
   Onderwijsonderzoek.
 team:
   heading: Betrokken onderzoekers
-  description: "Deze mensen doen mee:"
+  description: " "
   members:
     - image: /img/bertwienen_associatelector-512x288.png
       name: Dr. Bert Wienen
