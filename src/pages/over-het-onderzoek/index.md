@@ -17,7 +17,7 @@ Alleen leerlingen in bepaalde klassen van de deelnemende middelbare scholen kunn
 
 ### Wat houdt meedoen aan het onderzoek in?
 
-Het onderzoek loopt van september 2020 tot april 2023. We vragen leerlingen die meedoen om tijdens een periode van ongeveer twee jaar elk half jaar een vragenlijst in te vullen. In totaal dus vijf keer. Het invullen van de vragenlijst zal ongeveer 45 minuten duren. Het invullen kan gewoon op een computer of op je telefoon. De vragen gaan vooral over hoe het met je gaat en over school.
+Het onderzoek loopt van september 2020 tot maart 2024. We vragen leerlingen die meedoen om tijdens een periode van ongeveer twee jaar elk half jaar een vragenlijst in te vullen. In totaal dus vijf keer. Het invullen van de vragenlijst zal ongeveer 45 minuten duren. Het invullen kan gewoon op een computer of op je telefoon. De vragen gaan vooral over hoe het met je gaat en over school.
 
 We vragen sommige leerlingen ook om mee te doen aan een dagboekstudie. Deze leerlingen vragen we om een jaar lang elke week een paar vragen te beantwoorden over school en over hoe het gaat. Het invullen duurt een paar minuten en kan gewoon op de telefoon via de app. Hier krijg je wekelijks een kleine vergoeding voor. 
 
