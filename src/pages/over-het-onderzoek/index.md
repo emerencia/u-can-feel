@@ -13,7 +13,7 @@ Het **doel van dit onderzoek** is om praktisch toepasbare kennis te verkrijgen o
 
 ### Kan iedereen meedoen aan dit onderzoek?
 
-Alleen leerlingen in bepaalde klassen van de deelnemende middelbare scholen kunnen meedoen aan het onderzoek. Leerlingen die mee kunnen doen, worden daarvoor uitgenodigd door hun school. Het is niet verplicht om mee te doen als je een uitnodiging ontvangt. Je beslist zelf of je mee wil doen. Voor leerlingen jonger dan 16 vragen we ook aan de ouders toestemming. 
+Alleen leerlingen in bepaalde klassen van de deelnemende middelbare scholen kunnen meedoen aan het onderzoek. Leerlingen die mee kunnen doen worden daarvoor uitgenodigd door hun school. Het is niet verplicht om mee te doen als je een uitnodiging ontvangt. Je beslist zelf of je mee wil doen. Voor leerlingen jonger dan 16 vragen we ook aan de ouders toestemming. 
 
 ### Wat houdt meedoen aan het onderzoek in?
 
