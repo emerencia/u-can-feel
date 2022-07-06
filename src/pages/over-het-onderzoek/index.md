@@ -31,4 +31,6 @@ Wil je uitgebreidere informatie over het onderzoek, bijvoorbeeld over hoe wij om
 
 [](https://u-can-feel.nl/img/informatieformulier_ouders16min.pdf)Heb je nog vragen over wat meedoen aan het onderzoek voor jou inhoudt? Dan kun je altijd contact opnemen met de contactpersoon op jouw school of met de onderzoekers.  Op de contactpagina kun je onze emailadressen en telefoonnummers vinden.
 
+### Verkrijgen van de beloning voor de dagboekstudie
+
 Zoek je informatie over het verkrijgen van je beloning voor de dagboekstudie? Klik [hier](https://u-can-feel.nl/img/handleiding.pdf) voor de handleiding voor de betalingstool van de RUG. Heb je ook via de link in het sms'je doorgegeven dat je graag wil stoppen? Als je dat niet hebt gedaan, mail dan even naar ons (y.a.de.vries@rug.nl) om aan te geven dat je wil stoppen en je gegevens hebt ingevuld in de betalingstool. We streven ernaar om de beloning zo snel mogelijk over te maken, maar het kan even duren voordat je beloning op je bankrekening staat. Heb je half september nog niets ontvangen? Neem dan ook even contact op (y.a.de.vries@rug.nl).
