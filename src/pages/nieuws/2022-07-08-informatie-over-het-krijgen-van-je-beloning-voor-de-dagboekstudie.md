@@ -14,7 +14,7 @@ Zat je afgelopen jaar nog niet in een eindexamenklas? Dan krijg je volgende week
 
 Wil je liever stoppen, of zat je afgelopen jaar in een eindexamenklas? Dan willen we je graag je beloning geven. Hiervoor heeft de universiteit nog wat gegevens van je nodig, zoals je bankrekeningnummer en je BSN. Dit moet je invullen in de betalingstool van de universiteit.
 
-De betalingstool kun je hier vinden: <https://rbpreg.gai.rug.nl/sys/account/login> **Gebruik het emailadres dat je nu ook gebruikt voor de dagboekstudie, anders kunnen we je niet vinden. Kan dat niet? Stuur dan een mailtje naar y.a.de.vries@rug.nl met je telefoonnummer en het emailadres van je account in de betalingstool.**
+De betalingstool kun je hier vinden: <https://rbpreg.gai.rug.nl/sys/account/login> **Gebruik het emailadres dat je nu ook gebruikt voor de dagboekstudie, anders kunnen we je niet vinden. Kan dat niet of weet je niet welk emailadres dat is? Stuur dan een mailtje naar y.a.de.vries@rug.nl met je telefoonnummer en het emailadres van je account in de betalingstool.**
 
 We hebben ook een korte handleiding geschreven voor de betalingstool. Klik [hier](https://u-can-feel.nl/img/handleiding.pdf) voor de handleiding.
 
