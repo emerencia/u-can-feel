@@ -8,7 +8,7 @@ featuredimage: /img/pencils.jpg
 tags:
   - dagboekstudie
 ---
-Heb jij het afgelopen jaar meegedaan aan de dagboekstudie? Super, heel erg bedankt! Nu het schooljaar ten einde loopt, willen we graag informatie geven over het krijgen van je beloning.
+Heb jij het afgelopen jaar meegedaan aan de dagboekstudie? Super, heel erg bedankt! Nu het schooljaar ten einde loopt, willen we je graag informatie geven over het krijgen van je beloning.
 
 Zat je afgelopen jaar nog niet in een eindexamenklas? Dan krijg je volgende week ook een sms'je met de vraag of je misschien nog even door wil gaan. Zo kun je nog meer geld verdienen. 
 
