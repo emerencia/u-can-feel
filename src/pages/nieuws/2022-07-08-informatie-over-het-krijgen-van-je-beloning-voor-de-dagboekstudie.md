@@ -8,14 +8,12 @@ featuredimage: /img/pencils.jpg
 tags:
   - dagboekstudie
 ---
-Heb jij het afgelopen jaar meegedaan aan de dagboekstudie? Super, heel erg bedankt! Nu het schooljaar ten einde loopt, willen we je graag informatie geven over het krijgen van je beloning.
+Heb jij het afgelopen jaar meegedaan aan de dagboekstudie? Super, heel erg bedankt! We willen je graag informatie geven over het krijgen van je beloning.
 
-Zat je afgelopen jaar nog niet in een eindexamenklas? Dan krijg je volgende week ook een sms'je met de vraag of je misschien nog even door wil gaan. Zo kun je nog meer geld verdienen. 
+Hiervoor heeft de universiteit nog wat gegevens van je nodig, zoals je bankrekeningnummer en je BSN. Dit moet je invullen in de betalingstool van de universiteit.
 
-Wil je liever stoppen, of zat je afgelopen jaar in een eindexamenklas? Dan willen we je graag je beloning geven. Hiervoor heeft de universiteit nog wat gegevens van je nodig, zoals je bankrekeningnummer en je BSN. Dit moet je invullen in de betalingstool van de universiteit.
-
-De betalingstool kun je hier vinden: <https://rbpreg.gai.rug.nl/sys/account/login> **Gebruik het emailadres dat je nu ook gebruikt voor de dagboekstudie, anders kunnen we je niet vinden. Kan dat niet of weet je niet welk emailadres dat is? Stuur dan een mailtje naar y.a.de.vries@rug.nl met je telefoonnummer en het emailadres van je account in de betalingstool.**
+De betalingstool kun je hier vinden: <https://rbpreg.gai.rug.nl/sys/account/login> **Gebruik het emailadres dat je ook hebt gebruikt voor de dagboekstudie, anders kunnen we je niet vinden. Kan dat niet of weet je niet welk emailadres dat is? Stuur dan een mailtje naar y.a.de.vries@rug.nl met je telefoonnummer en het emailadres van je account in de betalingstool.**
 
 We hebben ook een korte handleiding geschreven voor de betalingstool. Klik [hier](https://u-can-feel.nl/img/handleiding.pdf) voor de handleiding.
 
-Belangrijk om te weten: het kan even duren voordat de beloning op je bankrekening staat. We moeten eerst van alle deelnemers de gegevens ontvangen. We streven ernaar de beloning uiterlijk half september uit te betalen.
+Belangrijk om te weten: het kan even duren voordat de beloning op je bankrekening staat. We moeten eerst van alle deelnemers de gegevens ontvangen. We hebben half september de beloning uitbetaald aan iedereen die voor de zomer gestopt is met de dagboekstudie en die al een account heeft aangemaakt. We streven ernaar de beloning voor de andere deelnemers uiterlijk eind oktober uit te betalen.
