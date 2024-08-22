@@ -13,34 +13,31 @@ mainpitch:
     dat ze niet goed weten of er dingen zijn die de school kan doen om (het
     risico op) deze klachten te verminderen. Of om leerlingen beter te helpen.
     Daarom doen we daar in u-can-feel onderzoek naar. 
-description: Wie kunnen er meedoen aan u-can-feel? En wie zijn verantwoordelijk
-  voor u-can-feel?
+description: Wat is u-can-feel?
 intro:
   blurbs:
     - image: /img/books.jpg
-      text: "We vragen alle leerlingen uit bepaalde klassen van de deelnemende
-        middelbare scholen om mee te doen. Het maakt niet uit of je veel last
-        hebt van problemen als angst en somberheid, of dat je daar juist nog
-        nooit last van hebt gehad. Je wordt in augustus of september door jouw
-        school uitgenodigd om mee te doen. Als je nog geen 16 bent, moet je
-        toestemming van je ouders hebben om mee te kunnen doen. Je kunt op de
-        “Over het onderzoek” pagina meer informatie vinden over wat het
-        onderzoek inhoudt. "
+      text: We hebben in 2021 alle leerlingen uit bepaalde klassen van de deelnemende
+        middelbare scholen gevraagd om mee te doen. Of ze nu wel of niet ooit
+        last hebben gehad van problemen als angst of somberheid. Leerlingen die
+        meedoen, hebben we ongeveer 2 jaar lang elk half jaar een vragenlijst
+        gestuurd over hoe het met hun gaat. Een deel van de leerlingen heeft ook
+        meegedaan aan de dagboekstudie. In de dagboekstudie hebben leerlingen
+        ongeveer 40 weken lang elke week een paar vragen beantwoord over hoe het
+        met ze gaat. Kijk voor meer informatie op de pagina "Over het
+        onderzoek".
     - image: /img/pencils.jpg
-      text: "U-can-feel is een gezamenlijk project van zeven middelbare scholen in
+      text: U-can-feel is een gezamenlijk project van zeven middelbare scholen in
         Zwolle en van onderzoekers van Hogeschool Windesheim en
         Rijksuniversiteit Groningen. De GGD IJsselland en de gemeente Zwolle
         zijn ook betrokken. Kijk voor meer informatie op de “Wie zijn wij?”
         pagina. Het onderzoek wordt mogelijk gemaakt door het Nationaal
-        Regieorgaan Onderwijsonderzoek (NRO). "
-  heading: Wie kunnen er meedoen aan u-can-feel?
-  description: "We vragen alle leerlingen uit bepaalde klassen van de deelnemende
-    middelbare scholen om mee te doen. Het maakt niet uit of je veel last hebt
-    van problemen als angst en somberheid, of dat je daar juist nog nooit last
-    van hebt gehad. Je wordt vanzelf door jouw school uitgenodigd om mee te
-    doen. Als je nog geen 16 bent, moet je toestemming van je ouders hebben om
-    mee te kunnen doen. Je kunt op de “Over het onderzoek” pagina meer
-    informatie vinden over wat het onderzoek inhoudt. "
+        Regieorgaan Onderwijsonderzoek (NRO). Het onderzoek is in 2024 afgerond
+        en we werken nu aan publicaties op basis van het onderzoek.
+  heading: Wat houdt u-can-feel in?
+  description: "We hebben in 2021 alle leerlingen uit bepaalde klassen van de
+    deelnemende middelbare scholen gevraagd om mee te doen. Of ze nu wel of niet
+    ooit last hebben gehad van problemen als angst of somberheid. "
 main:
   heading: Great coffee with no compromises
   description: >
