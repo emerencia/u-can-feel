@@ -11,26 +11,10 @@ In het *u-can-feel* onderzoek kijken onderzoekers van Hogeschool Windesheim, de 
 
 Het **doel van dit onderzoek** is om praktisch toepasbare kennis te verkrijgen over angst en depressiviteit op de middelbare school. Dit kunnen scholen bijvoorbeeld gebruiken als ze leerlingen met (beginnende) klachten begeleiden. Maar ook om bijvoorbeeld te proberen om dit soort klachten te voorkomen.
 
-### Kan iedereen meedoen aan dit onderzoek?
+### W﻿at hield het onderzoek in?
 
-Alleen leerlingen in bepaalde klassen van de deelnemende middelbare scholen kunnen meedoen aan het onderzoek. Leerlingen die mee kunnen doen worden daarvoor uitgenodigd door hun school. Het is niet verplicht om mee te doen als je een uitnodiging ontvangt. Je beslist zelf of je mee wil doen. Voor leerlingen jonger dan 16 vragen we ook aan de ouders toestemming. 
+We hebben alle leerlingen uit bepaalde klassen van de deelnemende middelbare scholen uitgenodigd om mee te doen via de school. Het onderzoek liep van september 2020 tot maart 2024. We vroegen leerlingen die meededen om tijdens een periode van ongeveer twee jaar elk half jaar een vragenlijst in te vullen. In totaal vier of vijf keer. Het invullen van de vragenlijst kostte ongeveer 45 minuten en kon op de telefoon of een computer gedaan worden. De vragen gingen bijvoorbeeld over hoe vaak leerlingen gevoelens van angst en depressiviteit ervaren, hoe gelukkig ze zich voelen, hoe fijn ze het vinden op school, hoe moeilijk ze school vinden, of ze veel steun ervaren van mensen uit hun omgeving, of ze gepest worden en hoeveel ze gebruik maken van social media. 
 
-### Wat houdt meedoen aan het onderzoek in?
+S﻿ommige leerlingen hebben we ook gevraagd om mee te doen aan een dagboekstudie. Deze leerlingen hebben we gevraagd om ongeveer 40 weken lang elke week een paar vragen te beantwoorden over school en over hoe het gaat. Gewoon op de telefoon. Daar kregen leerlingen wekelijks een kleine vergoeding voor.
 
-Het onderzoek loopt van september 2020 tot maart 2024. We vragen leerlingen die meedoen om tijdens een periode van ongeveer twee jaar elk half jaar een vragenlijst in te vullen. In totaal dus vijf keer. Het invullen van de vragenlijst zal ongeveer 45 minuten duren. Het invullen kan gewoon op een computer of op je telefoon. De vragen gaan vooral over hoe het met je gaat en over school.
-
-We vragen sommige leerlingen ook om mee te doen aan een dagboekstudie. Deze leerlingen vragen we om een jaar lang elke week een paar vragen te beantwoorden over school en over hoe het gaat. Het invullen duurt een paar minuten en kan gewoon op de telefoon via de app. Hier krijg je wekelijks een kleine vergoeding voor. 
-
-Wil je uitgebreidere informatie over het onderzoek, bijvoorbeeld over hoe wij omgaan met je privacy? Je kunt op de volgende links de volledige informatie voor onderzoeksdeelnemers vinden:
-
-[Informatie voor leerlingen van 15 of jonger](https://u-can-feel.nl/img/informatieformulier_kind16min.pdf)
-
-[Informatie voor leerlingen van 16 of ouder](https://u-can-feel.nl/img/informatieformulier_kind16plus.pdf)
-
-[Informatie voor ouders van leerlingen van 15 of jonger](https://u-can-feel.nl/img/informatieformulier_ouders16min.pdf)
-
-[](https://u-can-feel.nl/img/informatieformulier_ouders16min.pdf)Heb je nog vragen over wat meedoen aan het onderzoek voor jou inhoudt? Dan kun je altijd contact opnemen met de contactpersoon op jouw school of met de onderzoekers.  Op de contactpagina kun je onze emailadressen en telefoonnummers vinden.
-
-### Verkrijgen van de beloning voor de dagboekstudie
-
-Zoek je informatie over het verkrijgen van je beloning voor de dagboekstudie? Klik [hier](https://u-can-feel.nl/img/handleiding.pdf) voor de handleiding voor de betalingstool van de RUG. Heb je ook via de link in het sms'je doorgegeven dat je graag wil stoppen (als je afgelopen jaar niet in een eindexamenklas zat)? Als je dat niet hebt gedaan, mail dan even naar ons (y.a.de.vries@rug.nl) om aan te geven dat je wil stoppen en je gegevens hebt ingevuld in de betalingstool. Het kan even duren voordat je beloning op je bankrekening staat. We moeten eerst van alle deelnemers de gegevens ontvangen. We streven ernaar om uiterlijk half september de beloning over te maken. Als we je je gegevens niet kunnen vinden in de betalingstool, zullen we opnieuw contact met je opnemen.
+H﻿ierdoor hebben we uitgebreide informatie over het leven van de deelnemende leerlingen (door de halfjaarlijkse vragenlijst), maar ook informatie over hoe gevoelens van week tot week veranderen, bijvoorbeeld als het een weekje vakantie is of juist een toetsweek, of als er andere vervelende of leuke dingen gebeuren.
