@@ -18,9 +18,14 @@ team:
     - image: /img/ymkjeannadevries.jpg
       name: Dr. Ymkje Anna de Vries
       title: Projectleider
-      description: Onderzoeker en docent bij de afdeling Ontwikkelingspsychologie van
-        de Rijksuniversiteit Groningen
+      description: Senior onderzoeker bij Accare Kinder- en Jeugdpsychiatrie
       link: https://www.rug.nl/staff/y.a.de.vries/research
+    - image: /img/default_member.jpg
+      name: Dr. Geke Klapwijk
+      title: Projectleider
+      description: Onderzoeker bij het Lectoraat Jeugd van de Hogeschool Windesheim in
+        Zwolle
+      link: https://www.linkedin.com/in/gekemoekenklapwijk/
     - image: /img/default_member.jpg
       name: Dr. Ando Emerencia
       title: Onderzoeker
