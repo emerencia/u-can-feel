@@ -13,7 +13,7 @@ mainpitch:
     dat ze niet goed weten of er dingen zijn die de school kan doen om (het
     risico op) deze klachten te verminderen. Of om leerlingen beter te helpen.
     Daarom doen we daar in u-can-feel onderzoek naar. 
-description: Wat is u-can-feel?
+description: "     "
 intro:
   blurbs:
     - image: /img/books.jpg
